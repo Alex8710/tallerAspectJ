@@ -1,0 +1,12 @@
+Hora de operacion: 2019-03-24T22:40:19.478 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:19.645 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:19.867 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:20.085 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:20.276 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:20.464 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:20.655 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:20.836 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:21.021 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:21.223 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:21.456 Operacion ejecutada: Listar Cuentas
+Hora de operacion: 2019-03-24T22:40:21.653 Operacion ejecutada: Listar Cuentas
